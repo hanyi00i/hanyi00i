@@ -26,9 +26,9 @@
 
 <h3 align='left'> 🚀 My GitHub Stats </h3>
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hanyi00i&locale=en&rank_icon=github&show_icons=true&include_all_commits=true" width="500"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hanyi00i&locale=cn&rank_icon=github&show_icons=true&include_all_commits=true" width="500"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hanyi00i" width="500"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hanyi00i&locale=en&rank_icon=github&show_icons=true&include_all_commits=true" width="300"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hanyi00i&locale=cn&rank_icon=github&show_icons=true&include_all_commits=true" width="300"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hanyi00i" width="300"/>
 </p>
 
 <h3 align='left'> ⚡ More about me  </h3>
