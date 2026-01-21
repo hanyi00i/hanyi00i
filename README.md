@@ -24,11 +24,11 @@
 * Exploring advanced concepts in **Machine Learning** through the [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course).
 </p>
 
-<h3 align='left'> 🚀 My GitHub Stats  </h3>
+<h3 align='left'> 🚀 My GitHub Stats </h3>
 <p align="left">
-
-![Han Yi's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hanyi00i&show_icons=true&locale=en)
-![Han Yi's github streak](http://github-readme-streak-stats.herokuapp.com?user=hanyi00i&date_format=M%20j%5B%2C%20Y%5D&border=2558FF&stroke=0C1BFF&fire=656FDD&ring=52BEDD&currStreakLabel=6B54DD&sideLabels=1321DD)
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hanyi00i&locale=en&rank_icon=github&show_icons=true&include_all_commits=true" width="500"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hanyi00i&locale=cn&rank_icon=github&show_icons=true&include_all_commits=true" width="500"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hanyi00i" width="500"/>
 </p>
 
 <h3 align='left'> ⚡ More about me  </h3>
