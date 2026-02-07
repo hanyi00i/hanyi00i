@@ -34,7 +34,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=hanyi00i&locale=en&rank_icon=github&show_icons=true&include_all_commits=true" width="400"/>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=hanyi00i&locale=cn&rank_icon=github&show_icons=true&include_all_commits=true" width="400"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hanyi00i" width="400"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hanyi00i&layout=compact&langs_count=8" width="400"/>
 </p>
 
 <h3 align="left"> ⚡ More about me </h3>
