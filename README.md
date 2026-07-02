@@ -16,11 +16,11 @@
 * Graduated with a Bachelor's Degree in [Computer Engineering with Honours](https://ftkek.utem.edu.my/index.php/undergraduate-programmes/undergraduate-programmes/bachelor-of-computer-engineering-with-honours) from [Universiti Teknikal Malaysia Melaka (UTeM)](https://www.utem.edu.my/).
 </p>
 
-<h3 align="left"> 💻 Work </h3>
+<h3 align="left">💻 Work</h3>
+
 <p align="left">
 
-* Currently a System Engineer at [AMD](https://www.amd.com/).
-* Previously a Graduate Talent Software Engineer at [Intel Corporation](https://www.intel.com/).
+* Currently working as an AI Software Development Engineer at [AMD](https://www.amd.com/).
 </p>
 
 <h3 align="left"> 🌱 Learning Journey </h3>
